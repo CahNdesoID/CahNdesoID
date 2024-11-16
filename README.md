@@ -1,7 +1,6 @@
-<p align="center"><a href="https://www.instagram.com/maul_fenomena_alam/profilecard/?igsh=MWdleHg2MTd5dXdudg=="><img width="80%" alt="Hello, I'm Maulll. I am a good boy!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
-
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
