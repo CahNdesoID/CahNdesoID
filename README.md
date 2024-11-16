@@ -11,5 +11,5 @@ I Love Theoo~.
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="rizkicerdas132@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+    - ⚡ Fun fact: Patang Puluh Patang </br>
 </details>
