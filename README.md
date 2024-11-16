@@ -1,6 +1,6 @@
-<p align="center"><a href="https://www.instagram.com/maul_fenomena_alam/profilecard/?igsh=MWdleHg2MTd5dXdudg=="><img width="80%" alt="Hello, I'm Maulll. I am a good boy!" src="https://github.com/anuraghazra/anuraghazra/raw/master/assets/gh-readme-header.png" /></a></p>
+# Hi there 👋 , I'm Maulll!
+I Love Theoo~.  
 
-<br />
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
