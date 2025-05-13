@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Maulll!
-I Love Theoo~.  
+I am a beginner programmer ~.  
 
 ### Stats:
 <details>
