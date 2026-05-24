@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Halo,%20I'm%20Maulll!&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=CahNdesoID%20%7C%20Bikin%20yang%20keren%20dulu,%20paham-nya%20belakangan%20%F0%9F%98%8E&descAlignY=62&descSize=15&descColor=a0c4ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Halo,%20I'm%20Maulll!&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=CahNdesoID%20%7C%%20Ngoding%20ngoding%20dahulu%2C%20stress%20kemudian%20%F0%9F%98%B5&descAlignY=62&descSize=18&descColor=a0c4ff"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                       -->
