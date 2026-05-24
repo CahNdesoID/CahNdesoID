@@ -148,7 +148,7 @@ console.log(`Hey there! ${maul.name} here — let's build something cool 🚀`);
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajamesirterjahat@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CahNdesoID)
 
 <br/>
